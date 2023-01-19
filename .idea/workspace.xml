@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81f56f8d-7187-496f-9e31-d88304edab16" name="Changes" comment="" />
+    <list default="true" id="81f56f8d-7187-496f-9e31-d88304edab16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Alarm Clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Ballot Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Bowl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Calculating Scores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Cute or Not Cute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Dice Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Forth Point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Is Big?.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/LCM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Multiple and Divisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/Snacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python배우기(1~50)/TGN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +31,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FOK3UOLdNe7MT0WizpGzuh0ssS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jiho/PycharmProjects/baekjoon&quot;
   }
 }</component>
@@ -62,5 +86,16 @@
       <updated>1664357490828</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
